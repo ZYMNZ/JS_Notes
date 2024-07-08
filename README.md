@@ -39,7 +39,17 @@ console.log('Back to the top outer level');
 
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/d07f48a0-8d7a-4acd-9683-951a402ea7e5)
 
-
+console.time() & console.timeEnd()
+```js
+try {
+  console.time("record-1");
+  await someAsyncTask();
+} catch (error) {
+   // handle error
+} finally {
+  console.timeEnd("record-1");
+}
+```
 
 # JS NOTES UDEMY CLASS
 
