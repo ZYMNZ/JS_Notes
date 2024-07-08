@@ -1,4 +1,4 @@
-## Alternative to consol.log
+## Alternative to _consol.log_
 ### console.dir()
 
 For hierarchical listing of arrays and objects.
