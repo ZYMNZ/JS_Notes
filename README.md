@@ -91,3 +91,20 @@ Using backticks:
 
 - `Number()`
 - `String()`
+
+### Type Coercion
+
+The type the JS converts automatically (behind the scenes)
+
+### Truthy and Falsy Values
+
+
+
+
+
+
+
+
+
+
+
