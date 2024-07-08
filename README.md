@@ -93,12 +93,15 @@ Using backticks:
 - `String()`
 
 ### Type Coercion
-
 The type the JS converts automatically (behind the scenes)
 
 ### Truthy and Falsy Values
-
-
+5 falsy values: 
+- `0`
+- `''` (Empty String)
+- `undefined` 
+- `null`
+- `NaN`
 
 
 
