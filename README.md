@@ -21,6 +21,7 @@ console.table({"a": 1, "b": 2, "c": 3});
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/1a005ed2-ba31-4a15-b32e-5ce3cc3810d2)
 
 ### console.group()
+To create a new inline group in the console output, making it easier to organize and read related messages.
 ```js
 console.log('This is the top outer level');
 
