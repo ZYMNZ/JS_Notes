@@ -41,7 +41,7 @@ console.log('Back to the top outer level');
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/d07f48a0-8d7a-4acd-9683-951a402ea7e5)
 
 ### console.time() & console.timeEnd()
-to measure the duration of an asynchronous task
+To measure the duration of an asynchronous task
 ```js
 try {
   console.time("record-1");
