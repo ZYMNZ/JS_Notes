@@ -50,6 +50,7 @@ try {
   console.timeEnd("record-1");
 }
 ```
+![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/70e7a3e2-3616-42be-8c71-fc6b315744ce)
 
 # JS NOTES UDEMY CLASS
 
