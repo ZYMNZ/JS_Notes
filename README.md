@@ -7,6 +7,19 @@ console.dir(["apples", "oranges", "bananas"]);
 ```
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/fcf2bb44-5c3b-4e44-8f50-1d5fb53bb76b)
 
+`console.table()`
+
+For rows and columns listing of arrays (might not be suitable for objects).
+```js
+console.table(["apples", "oranges", "bananas"]);
+```
+![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/511d3736-24de-488d-a022-4d5c1635d68f)
+```js
+console.table({"a": 1, "b": 2, "c": 3});
+```
+
+![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/1a005ed2-ba31-4a15-b32e-5ce3cc3810d2)
+
 
 # JS NOTES UDEMY CLASS
 
