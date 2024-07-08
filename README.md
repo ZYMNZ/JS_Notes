@@ -20,6 +20,26 @@ console.table({"a": 1, "b": 2, "c": 3});
 
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/1a005ed2-ba31-4a15-b32e-5ce3cc3810d2)
 
+console.group()
+```js
+console.log('This is the top outer level');
+
+console.group('Task 1');
+console.log('Task activity 1');
+console.log('Task activity 2');
+console.groupEnd();
+
+console.group('Task 2');
+console.log('Task activity 3');
+console.log('Task activity 4');
+console.groupEnd();
+
+console.log('Back to the top outer level');
+```
+
+![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/d07f48a0-8d7a-4acd-9683-951a402ea7e5)
+
+
 
 # JS NOTES UDEMY CLASS
 
