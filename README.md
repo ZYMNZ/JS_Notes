@@ -1,5 +1,5 @@
 ## Alternative to consol.log
-`console.dir()`
+### console.dir()
 
 For hierarchical listing of arrays and objects.
 ```js
@@ -7,7 +7,7 @@ console.dir(["apples", "oranges", "bananas"]);
 ```
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/fcf2bb44-5c3b-4e44-8f50-1d5fb53bb76b)
 
-`console.table()`
+### console.table()
 
 For rows and columns listing of arrays (might not be suitable for objects).
 ```js
@@ -20,7 +20,7 @@ console.table({"a": 1, "b": 2, "c": 3});
 
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/1a005ed2-ba31-4a15-b32e-5ce3cc3810d2)
 
-`console.group()`
+### console.group()
 ```js
 console.log('This is the top outer level');
 
@@ -39,7 +39,7 @@ console.log('Back to the top outer level');
 
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/d07f48a0-8d7a-4acd-9683-951a402ea7e5)
 
-`console.time() & console.timeEnd()`
+### console.time() & console.timeEnd()
 ```js
 try {
   console.time("record-1");
@@ -52,7 +52,7 @@ try {
 ```
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/70e7a3e2-3616-42be-8c71-fc6b315744ce)
 
-`console.clear()`
+### console.clear()
 
 This will clear the console.
 
