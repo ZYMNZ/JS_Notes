@@ -89,4 +89,5 @@ Using backticks:
 
 ### Type Conversion
 
-
+- `Number()`
+- `String()`
