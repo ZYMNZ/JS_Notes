@@ -109,8 +109,9 @@ The type the JS converts automatically (behind the scenes)
 
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/c63992cb-c888-4ddd-b4ca-5acbeb59a137)
 
+### Equality Operators: == vs. ===
+`==` and `!=` is the _loose_ version of equality
 
-
-
+`===` and `!==` is the _strick_ version of equality
 
 
