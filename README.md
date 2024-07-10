@@ -91,6 +91,7 @@ Using backticks:
 
 - `Number()`
 - `String()`
+- `Boolean()` 
 
 ### Type Coercion
 The type the JS converts automatically (behind the scenes)
