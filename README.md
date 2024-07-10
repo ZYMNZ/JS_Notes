@@ -104,7 +104,9 @@ The type the JS converts automatically (behind the scenes)
 - `NaN`
 
 ### Methods
-`prompt()` works similarly like `alert()` but it allows the user to enter a value, which returns it as a _**string**_ 
+`prompt()` works similarly to `alert()` but it allows the user to enter a value, which returns it as a _**string**_ 
+> Don't judge my variable naming ( I'm just practicing here XD )
+![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/c63992cb-c888-4ddd-b4ca-5acbeb59a137)
 
 
 
