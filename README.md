@@ -130,6 +130,11 @@ It should be written at the top.
 ### Function Expression
 ![image](https://github.com/user-attachments/assets/24124ee9-02ad-4f39-bfce-1b9e6e86c411)
 
+### Arrow function 
+- one param
+- single line of code
+
+![image](https://github.com/user-attachments/assets/8c15e9f3-420f-49a2-b22d-461fbb54fb66)
 
 
 
