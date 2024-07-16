@@ -116,7 +116,7 @@ The type the JS converts automatically (behind the scenes)
 `===` and `!==` is the _strick_ version of equality
 
 ## Strict mode
-It should be written at top.
+It should be written at the top.
 
 ![image](https://github.com/user-attachments/assets/0dcbcf51-bc7b-4fee-b44e-c0df1e7b4a16)
 
