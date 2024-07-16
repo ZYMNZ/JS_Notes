@@ -77,7 +77,7 @@ let lName = "7x";
 let fullName = `My name is ${fName} ${lName}`;
 ```
 
-### String
+## String
 
 Backticks can be used to write normal strings.
 
@@ -87,7 +87,7 @@ Using backticks:
 
 - we don't need to use `/n`, we can write multiple lines with putting any sign for creating a new line.
 
-### Type Conversion
+## Type Conversion
 
 - `Number()`
 - `String()`
@@ -96,7 +96,7 @@ Using backticks:
 ### Type Coercion
 The type the JS converts automatically (behind the scenes)
 
-### Truthy and Falsy Values
+## Truthy and Falsy Values
 5 falsy values: 
 - `0`
 - `''` (Empty String)
@@ -104,20 +104,39 @@ The type the JS converts automatically (behind the scenes)
 - `null`
 - `NaN`
 
-### Methods
+## Methods
 `prompt()` works similarly to `alert()` but it allows the user to enter a value, which returns it as a _**string**_ 
 > Don't judge my variable naming ( I'm just practicing here XD )
 
 ![image](https://github.com/ZYMNZ/JS_Notes/assets/98342638/c63992cb-c888-4ddd-b4ca-5acbeb59a137)
 
-### Equality Operators: == vs. ===
+## Equality Operators: == vs. ===
 `==` and `!=` is the _loose_ version of equality
 
 `===` and `!==` is the _strick_ version of equality
 
-### Strict mode
+## Strict mode
 It should be written at top.
 
 ![image](https://github.com/user-attachments/assets/0dcbcf51-bc7b-4fee-b44e-c0df1e7b4a16)
+
+## Types of Functions 
+
+### Function Declaration
+![image](https://github.com/user-attachments/assets/3eef7c14-df69-4b92-8bd8-67e72445ebfb)
+
+### Function Expression
+![image](https://github.com/user-attachments/assets/24124ee9-02ad-4f39-bfce-1b9e6e86c411)
+
+
+
+
+
+
+
+
+
+
+
 
 
