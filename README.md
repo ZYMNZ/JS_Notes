@@ -135,8 +135,6 @@ It should be written at the top.
 - a single line of code
 
 ![image](https://github.com/user-attachments/assets/8c15e9f3-420f-49a2-b22d-461fbb54fb66)
-
-
 ![image](https://github.com/user-attachments/assets/9fb97e56-51d9-4ca6-b688-422b6e1a3535)
 
 
