@@ -131,18 +131,17 @@ It should be written at the top.
 ![image](https://github.com/user-attachments/assets/24124ee9-02ad-4f39-bfce-1b9e6e86c411)
 
 ### Arrow function 
-- one param (optional)
-- a single line of code
-
+#### one param (optional) with a single line of code
 ![image](https://github.com/user-attachments/assets/8c15e9f3-420f-49a2-b22d-461fbb54fb66)
 ![image](https://github.com/user-attachments/assets/9fb97e56-51d9-4ca6-b688-422b6e1a3535)
 
-- one param but more than one line of code, we use `{}`
-  
+#### one param but more than one line of code, we use `{}`
 ![image](https://github.com/user-attachments/assets/e5334470-a238-4dcc-8dd8-507f1cbf5af6)
 
+#### more than one param
+- we use parenthesis `()` to wrap the params 
 
-
+![image](https://github.com/user-attachments/assets/f6457965-9136-4c38-be03-0cc49407bf9d)
 
 
 
