@@ -137,6 +137,9 @@ It should be written at the top.
 ![image](https://github.com/user-attachments/assets/8c15e9f3-420f-49a2-b22d-461fbb54fb66)
 ![image](https://github.com/user-attachments/assets/9fb97e56-51d9-4ca6-b688-422b6e1a3535)
 
+- one param but more than one line of code, we use `{}`
+  
+![image](https://github.com/user-attachments/assets/e5334470-a238-4dcc-8dd8-507f1cbf5af6)
 
 
 
