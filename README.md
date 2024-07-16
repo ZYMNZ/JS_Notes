@@ -123,6 +123,7 @@ It should be written at the top.
 ## Types of Functions 
 
 ### Function Declaration
+- The function can be called before writing it.
 ![image](https://github.com/user-attachments/assets/3eef7c14-df69-4b92-8bd8-67e72445ebfb)
 
 ### Function Expression
