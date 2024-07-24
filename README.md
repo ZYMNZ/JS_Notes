@@ -64,6 +64,7 @@ This will clear the console.
 
 
 # JS NOTES UDEMY CLASS
+> PERSONAL NOTES
 
 ## Operations
 
