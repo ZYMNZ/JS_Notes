@@ -1,7 +1,7 @@
 > Note: THIS FILE WILL BE UPDATED FREQUENTLY!! 
 
 ## Alternative to _consol.log_ 
-> Note this part was copied from another person, I don't remember their name to credit them. But thank you anyway!
+> NOTE: this part was copied from another person, I don't remember their name to credit them. But thank you anyway!
 
 ### console.dir()
 
