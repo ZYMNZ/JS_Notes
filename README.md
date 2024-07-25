@@ -157,7 +157,7 @@ const friends = ['Conan', 'Candl3'];
 ```
 - `friends.push('Twin');` will add it to the end of the array
   - returns the array length
-- `friends.unshift('Twin');` will add it to the start of the array **if there is a param** otherwise it removes the 1st element
+- `friends.unshift('Twin');` will add it to the start of the array **_if there is a param_** otherwise it removes the 1st element
   - returns the array length
 - `friends.pop();` will remove the last element of the array
   - returns the removed element
