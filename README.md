@@ -151,9 +151,10 @@ REVISION:
 
 ![image_2024-07-24_194310791](https://github.com/user-attachments/assets/d2d69ba5-addf-402e-8f8d-cb2dd95335c1)
 
-
-
-
-
-
+## Arrays 
+```js
+const friends = ['Conan', 'Candl3'];
+```
+- `friends.push('Twin');` will add it to the end of the array
+- `friends.unshift('Twin');` will add it to the start of the array
 
