@@ -107,7 +107,7 @@ The type the JS converts automatically (behind the scenes)
 - `null`
 - `NaN`
 ### Knowing if Truthy or Falsy
-we can either use Boolean() or `!!`
+we can either use `**Boolean()**` or `**!!**`
 ```js
 !!'';
 << false
