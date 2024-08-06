@@ -106,6 +106,18 @@ The type the JS converts automatically (behind the scenes)
 - `undefined` 
 - `null`
 - `NaN`
+### Knowing if Truthy or Falsy
+we can either use Boolean() or `!!`
+```js
+!!'';
+<< false
+
+!!"hello";
+<< true
+
+Boolean(0)
+<< false
+```
 
 ## Methods
 `prompt()` works similarly to `alert()` but it allows the user to enter a value, which returns it as a _**string**_ 
