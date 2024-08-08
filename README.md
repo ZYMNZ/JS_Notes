@@ -174,4 +174,4 @@ const friends = ['Conan', 'Candl3'];
 -  `friends.shift();` removes the 1st element
 - `friends.pop();` will remove the last element of the array
   - returns the removed element
-- 
+- `friends.indexOf("Candl3");` will return the index of that element
