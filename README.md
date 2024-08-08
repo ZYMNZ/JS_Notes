@@ -175,3 +175,4 @@ const friends = ['Conan', 'Candl3'];
 - `friends.pop();` will remove the last element of the array
   - returns the removed element
 - `friends.indexOf("Candl3");` will return the index of that element, if the element is not in the list we'll get `-1`
+- `friends.includes("Conan");` will return `true` or `false` if the element is in the array or not
