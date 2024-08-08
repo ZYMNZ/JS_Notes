@@ -172,6 +172,6 @@ const friends = ['Conan', 'Candl3'];
 - `friends.unshift('Twin');` will add it to the start of the array
   - returns the array length
 -  `friends.shift();` removes the 1st element
-- `friends.pop();` will remove the last element of the array, if the element is not in the list we'll get `-1`
+- `friends.pop();` will remove the last element of the array
   - returns the removed element
-- `friends.indexOf("Candl3");` will return the index of that element
+- `friends.indexOf("Candl3");` will return the index of that element, if the element is not in the list we'll get `-1`
