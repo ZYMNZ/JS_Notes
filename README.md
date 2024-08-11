@@ -5,7 +5,7 @@
 
 ### console.dir()
 
-For hierarchical listing of arrays and objects.
+For hierarchical listing of arrays and objects. 
 ```js
 console.dir(["apples", "oranges", "bananas"]);
 ```
